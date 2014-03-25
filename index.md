@@ -11,7 +11,7 @@ Bruno Vieira | <i class="fa fa-twitter"></i> <a href="//twitter.com/bmpvieira" t
 
 ## Disclaimer
 
-<img class="fragment" style="width: 60%;" alt="afra-stack" src="/img/afra_stack.png" />
+<img class="fragment" style="width: 60%;" alt="afra-stack" src="img/afra_stack.png" />
 
 ---
 
@@ -33,7 +33,7 @@ Bruno Vieira | <i class="fa fa-twitter"></i> <a href="//twitter.com/bmpvieira" t
 
 ### Effect of climate changes
 
-<img src="/img/climate-changes.jpg" />
+<img src="img/climate-changes.jpg" />
 
 <div style="display: block;">
 <!-- <img style="max-width: 20%; float: left; padding-right: 2%;" src="img/polar-bear.jpg" alt="http://en.wikipedia.org/wiki/File:Polar_Bear_-_Alaska.jpg" /> -->
@@ -46,7 +46,7 @@ Bruno Vieira | <i class="fa fa-twitter"></i> <a href="//twitter.com/bmpvieira" t
 
 ### Discover unexpected population bottlenecks
 
-<img style="max-width: 75%;" src="/img/dog-psmc.png" />
+<img style="max-width: 75%;" src="img/dog-psmc.png" />
 
 
 <small><a href="//dx.doi.org/10.1371/journal.pgen.1004016" target="_blank">[Freedman, 2014]</a></span></small>
@@ -104,7 +104,7 @@ Run PSMC across a wide range of social insects and their solitary relatives
 
 ### PSMC
 
-<img class="stretch" alt="http://www.troll.me/images/futurama-fry/what-sorcery-is-this.jpg" src="/img/what-sorcery-is-this.jpg" />
+<img class="stretch" alt="http://www.troll.me/images/futurama-fry/what-sorcery-is-this.jpg" src="img/what-sorcery-is-this.jpg" />
 
 Short answer: <span class="fragment">I don't know!</span>
 
@@ -124,7 +124,7 @@ Long answer: <span class="fragment">I can try to explain...</span>
 
 <a href='http://dx.doi.org/10.1016/0304-4149(82)90011-4'>Kingman, 1982</a>
 
-<img style="width: 70%;" alt="coalescent theory" src="/img/coalescence.png">
+<img style="width: 70%;" alt="coalescent theory" src="img/coalescence.png">
 
 <small>
 <a href='http://dx.doi.org/10.1186/1471-2105-15-3'>[Yang, 2014]</a>
@@ -145,13 +145,13 @@ Long answer: <span class="fragment">I can try to explain...</span>
 </p>
 <p>Ancestral Recombination Graph (ARG)</p>
 
-<img style="width: 25%;" alt="arg" src="/img/arg.png">
+<img style="width: 25%;" alt="arg" src="img/arg.png">
 
 </div>
 
 ---
 
-<img style="width: 55%;" alt="arg" src="/img/arg.png">
+<img style="width: 55%;" alt="arg" src="img/arg.png">
 
 ---
 
@@ -161,7 +161,7 @@ Long answer: <span class="fragment">I can try to explain...</span>
 
 <small>Along the chromosome instead of back in time</small>
 
-<img style="width: 80%;" alt="spatial" src="/img/spatial.png">
+<img style="width: 80%;" alt="spatial" src="img/spatial.png">
 
 <small>
 [Marjoram, 2006](http://dx.doi.org/10.1186/1471-2156-7-16)
@@ -205,7 +205,7 @@ SMC <a href="http://dx.doi.org/10.1098%2Frstb.2005.1673">[McVean & Cardin, 2005]
 
 SMC' <a href="http://dx.doi.org/10.1186/1471-2156-7-16">[Marjoram & Wall], 2006</a>
 
-<img style="width: 45%;" src="/img/smc.png" />
+<img style="width: 45%;" src="img/smc.png" />
 
 <small>
 <a href='http://dx.doi.org/10.1016/0304-4149(82)90011-4'>A) SMC; B) SMC'</a> <a href='http://dx.doi.org/10.1186/1471-2105-15-3'>[Yang, 2014]</a>
@@ -215,7 +215,7 @@ SMC' <a href="http://dx.doi.org/10.1186/1471-2156-7-16">[Marjoram & Wall], 2006<
 
 ### Markov chain
 
-<img alt="http://upload.wikimedia.org/wikipedia/commons/2/2b/Markovkate_01.svg" style="width: 45%;" src="/img/Markov.svg" />
+<img alt="http://upload.wikimedia.org/wikipedia/commons/2/2b/Markovkate_01.svg" style="width: 45%;" src="img/Markov.svg" />
 
 ---
 
@@ -223,7 +223,7 @@ SMC' <a href="http://dx.doi.org/10.1186/1471-2156-7-16">[Marjoram & Wall], 2006<
 
 <a href="//dx.doi.org/10.1038/nature10231" target="_blank">Li, 2011</a>
 
-<img style="width: 65%;" src="/img/psmc-model.png" />
+<img style="width: 65%;" src="img/psmc-model.png" />
 
 
 ---
@@ -236,7 +236,7 @@ SMC' <a href="http://dx.doi.org/10.1186/1471-2156-7-16">[Marjoram & Wall], 2006<
 
 ---
 
-<img style="width: 60%;" src="/img/psmc-phylo.png" />
+<img style="width: 60%;" src="img/psmc-phylo.png" />
 
 <small>
 [http://simons.berkeley.edu/sites/default/files/docs/1213/slidesmailund.pdf](http://simons.berkeley.edu/sites/default/files/docs/1213/slidesmailund.pdf)
@@ -244,7 +244,7 @@ SMC' <a href="http://dx.doi.org/10.1186/1471-2156-7-16">[Marjoram & Wall], 2006<
 
 ---
 
-<img style="width: 70%;" src="/img/psmc-phylo-demo.png" />
+<img style="width: 70%;" src="img/psmc-phylo-demo.png" />
 
 <small>
 [http://simons.berkeley.edu/sites/default/files/docs/1213/slidesmailund.pdf](http://simons.berkeley.edu/sites/default/files/docs/1213/slidesmailund.pdf)
@@ -253,7 +253,7 @@ SMC' <a href="http://dx.doi.org/10.1186/1471-2156-7-16">[Marjoram & Wall], 2006<
 
 ---
 
-<img style="width: 80%;" src="/img/psmc-phylo-specie.png" />
+<img style="width: 80%;" src="img/psmc-phylo-specie.png" />
 
 <small>
 [http://simons.berkeley.edu/sites/default/files/docs/1213/slidesmailund.pdf](http://simons.berkeley.edu/sites/default/files/docs/1213/slidesmailund.pdf)
