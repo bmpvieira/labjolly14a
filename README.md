@@ -4,10 +4,13 @@ Talk given in the Evolution Group Lab Jolly at the Queen Mary, University of Lon
 
 Slides theme from [timruffles/you-probably-dont-want-an-object](//github.com/timruffles/you-probably-dont-want-an-object)
 
+Install
+-------
+git clone git@github.com:bmpvieira/labjolly14a.git
+cd labjolly14a
+npm install
+npm start
+
 License
 -------
 © 2014 [Bruno Vieira](//bmpvieira.com) [CC-BY 4.0](//creativecommons.org/licenses/by/4.0/deed.en_US)
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bmpvieira/labjolly14a/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-

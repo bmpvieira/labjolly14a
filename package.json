@@ -4,14 +4,15 @@
   "description": "Talk about the PSMC for the Evolution Group Lab Jolly at the Queen Mary University of London",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp-reveal": "~0.1.2",
+    "gulp": "~3.5.6",
     "gulp-markdown": "~0.1.2",
+    "gulp-reveal": "^1.0.0",
     "gulp-watch": "~0.5.3",
-    "gulp": "~3.5.6"
+    "gulp-server-livereload": "^1.2.1"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp serve"
   },
   "author": "Bruno Vieira <mail@bmpvieira.com>",
   "license": "CC-BY 4.0"
