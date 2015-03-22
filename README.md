@@ -6,10 +6,12 @@ Slides theme from [timruffles/you-probably-dont-want-an-object](//github.com/tim
 
 Install
 -------
-git clone git@github.com:bmpvieira/labjolly14a.git
+```bash
+git clone git@github.com:bmpvieira/labjolly14a.git 
 cd labjolly14a
 npm install
 npm start
+```
 
 License
 -------
